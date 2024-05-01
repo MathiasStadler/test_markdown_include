@@ -9,6 +9,6 @@
 
 ## from another repo
 
-[another repo](https://github.com/MathiasStadler/test_markdown_include/blob/main/includes/include_file.md)
+[another repo](https://github.com/MathiasStadler/repo_template/blob/main/includes/dummy_codeblock_include.md)
 
 </details>
