@@ -1,3 +1,3 @@
 # instruction
 
-[back](../*.md)
+[back](../main_file.md)
